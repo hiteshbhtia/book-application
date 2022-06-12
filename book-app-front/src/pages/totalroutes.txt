@@ -1,0 +1,8 @@
+/addbook
+/editproduct
+/home
+/login
+/register
+
+pagination
+
